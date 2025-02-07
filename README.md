@@ -18,7 +18,7 @@ Le projet contient les fichiers suivants :
 ## Installation et Utilisation
 1. Cloner le dépôt :
    ```bash
-   git clone:url du depot
+   git clone https://github.com/IlanLinn/MGK-store.git
    ```
 2. Ouvrir `mgk.html` dans un navigateur web.
 
